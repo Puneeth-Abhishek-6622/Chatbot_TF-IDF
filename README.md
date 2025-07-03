@@ -16,7 +16,8 @@ This is a simple FAQ chatbot built using Python, scikit-learn, and Gradio. The c
 
 ## How to Run  
 1. Install the required packages by running this command in your terminal or notebook:  
-- pip install gradio scikit-learn
+   ```bash
+   pip install gradio scikit-learn
 
 2. Run the chatbot script (e.g., `python chatbot.py`) or run it in a notebook cell.  
 3. The Gradio app will open a local web interface or provide a shareable link.
